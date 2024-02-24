@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Noelle!
+### Hi there, I'm Noelle! 👋
 Welcome to my GitHub! I'm an aspiring software developer, currently employed as a Customer Care Specialist with [HeyOrca](https://www.heyorca.com).
 
 I'm learning to code through [GetCoding](https://www.getcoding.ca) and am working on my project for module one. Outside of coding, you'll usually find me with a book in my hand, or on my spin bike taking a class with one of my favorite Peloton instructors!
