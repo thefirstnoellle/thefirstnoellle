@@ -9,9 +9,7 @@ I'm learning to code through [GetCoding](https://www.getcoding.ca) and am workin
 
 #### My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefirstnoellle)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thefirstnoellle&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefirstnoellle)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thefirstnoellle&show_icons=true)  
 
 
 <!--
